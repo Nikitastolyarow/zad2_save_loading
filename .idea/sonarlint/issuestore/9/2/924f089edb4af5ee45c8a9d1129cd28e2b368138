@@ -1,0 +1,38 @@
+
+¬
+java:S13199"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(ß”ö´8è‹±Š…2J$02c037a0-f4fc-4b7f-9d0b-238f17513a18
+©
+java:S1192"aDefine a constant instead of duplicating this literal "C:/Games/savegames/progress2.dat" 4 times.(Ì¯Þ©ùÿÿÿÿ8ê‹±Š…2J$dbf1ecdd-e869-40c6-9c90-d19bd280c845
+©
+java:S1192"aDefine a constant instead of duplicating this literal "C:/Games/savegames/progress1.dat" 4 times.(œïÙýýÿÿÿÿ8ê‹±Š…2J$c9b9ca2f-1ca7-4e4e-bde5-a6647488ddba
+£
+java:S1192"aDefine a constant instead of duplicating this literal "C:/Games/savegames/progress3.dat" 4 times.(…‚úQ8ê‹±Š…2J$5eb4e6db-aa82-450d-aa32-59d01a4ea703
+•
+java:S2095<"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(³•¯žûÿÿÿÿ8ê‹±Š…2J$e6f83a56-8781-4468-9f29-a781ade9b0b0
+–
+java:S2095S"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¡úè¬øÿÿÿÿ8ê‹±Š…2J$32bbbee5-f00b-4e15-9782-32239125bbe1
+m	java:S106"+Replace this use of System.out by a logger.(âÃ¢ 8ï‹±Š…2J$218df0d9-3a34-4ced-8f48-98cfabf302ed
+r	java:S106"+Replace this use of System.out by a logger.(¾ª…’üÿÿÿÿ8ñ‹±Š…2J$66006371-e3e8-4e50-9c43-c7ea905689e4
+m	java:S106"+Replace this use of System.out by a logger.(ü÷Ö™8ñ‹±Š…2J$fa2473ff-b480-4a1c-a2e9-233d2df10d70
+„
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¶ßÏ·8ð‹±Š…2J$5ab416f6-02c4-44bf-8b6a-8c629576713d
+‚	java:S899";Do something with the "boolean" value returned by "delete".(áÄßûÿÿÿÿ8ð‹±Š…2J$e886e07d-73a5-4a04-80a2-6cb0127c44a8
+–
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(áÄßûÿÿÿÿ8ð‹±Š…2J$9e79a9ff-c97a-4f28-b52c-de36699f004d
+m	java:S106 "+Replace this use of System.out by a logger.(æðüƒ8ò‹±Š…2J$8d7ed873-8e13-4aa3-b51e-287c6b6d69af
+„
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(–·°ñ8ñ‹±Š…2J$c10166c1-7185-4935-bb8b-1a949ba63ebb
+‚	java:S899$";Do something with the "boolean" value returned by "delete".(¾úÉøÿÿÿÿ8ñ‹±Š…2J$0ce5a179-d239-4c71-8d05-ba9024ffa97b
+–
+java:S4042$"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¾úÉøÿÿÿÿ8ñ‹±Š…2J$e36d18a9-19a5-4657-bc51-d0b66f77eb26
+m	java:S106%"+Replace this use of System.out by a logger.(ðÝÞÕ8ô‹±Š…2J$4926333e-cc6b-42a5-bd9a-5a4db1e1dffb
+„
+java:S1075'"ARefactor your code to get this URI from a customizable parameter.(äÎˆª8ñ‹±Š…2J$30309799-3ceb-4a04-b879-9ab46d158f4f
+‚	java:S899)";Do something with the "boolean" value returned by "delete".(÷ºŽÿÿÿÿÿ8ñ‹±Š…2J$ce619c2e-d6a0-410f-bc7c-9df863f1c99c
+–
+java:S4042)"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(÷ºŽÿÿÿÿÿ8ñ‹±Š…2J$81edb4b3-8517-43ed-bc9d-87fd302ca0cf
+r	java:S106*"+Replace this use of System.out by a logger.(ýýïÊýÿÿÿÿ8ö‹±Š…2J$d75472d9-066f-440a-b20f-7474e689b9c0
+r	java:S1064"+Replace this use of System.out by a logger.(ý™øøÿÿÿÿ8ú‹±Š…2J$2ffedf24-544c-4338-b0af-739f9e08bb33
+r	java:S106H"+Replace this use of System.out by a logger.(ý™øøÿÿÿÿ8ü‹±Š…2J$fce6e90d-5304-48b4-a4df-07f665075626
+r	java:S106\"+Replace this use of System.out by a logger.(ý™øøÿÿÿÿ8×÷³Š…2J$7ef61403-df46-4f9d-afff-2a576520daff
+r	java:S106f"+Replace this use of System.out by a logger.(ý™øøÿÿÿÿ8Ù÷³Š…2J$7d3144d7-1cce-4355-905f-29ab044c757c
